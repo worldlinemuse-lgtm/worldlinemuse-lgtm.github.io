@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://worldlinemuse-lgtm.github.io/sitemap.xml
